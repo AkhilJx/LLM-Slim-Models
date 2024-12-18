@@ -6,6 +6,8 @@ As their name implies, SLMs are smaller in scale and scope than large language m
 
 references:
 https://medium.com/@darrenoberst/slims-small-specialized-models-function-calling-and-multi-model-agents-8c935b341398
+https://www.marktechpost.com/2024/02/12/llmware-launches-slims-small-specialized-function-calling-models-for-multi-step-automation/
+
 
 official github reference:
 https://github.com/llmware-ai/llmware
